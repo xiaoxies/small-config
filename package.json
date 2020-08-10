@@ -1,0 +1,19 @@
+{
+  "name": "small-config",
+  "version": "1.0.0",
+  "description": "全局参数获取",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaoxies/small-config.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaoxies/small-config/issues"
+  },
+  "homepage": "https://github.com/xiaoxies/small-config#readme"
+}
