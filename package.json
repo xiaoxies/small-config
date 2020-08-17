@@ -1,6 +1,6 @@
 {
   "name": "small-config",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "全局参数获取",
   "main": "index.js",
   "scripts": {

@@ -5,7 +5,6 @@ const env = process.env.NODE_ENV;
 class smallConfig {
     static load(path){
         path = path[path.length-1] !== '\\' ? path+'\\' : path;
-        console.log(path,"======");
         fs.readdirSync(path).forEach(file =>{   //将目录下的js配置文件合并
             if(file.indexOf(".")!==-1){
                 let obj = require(path + file.trim());
